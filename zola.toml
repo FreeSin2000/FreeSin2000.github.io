@@ -1,6 +1,10 @@
 # The URL the site will be built for
 base_url = "https://freesin2000.github.io"
 
+# Site metadata
+title = "FreeSin2000"
+author = "FreeSin2000"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
